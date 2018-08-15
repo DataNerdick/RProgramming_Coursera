@@ -5,6 +5,7 @@ For this first programming assignment you will write three functions that are me
 with dataset that accompanies this assignment. Although this is a programming assignment, you will be assessed using a separate quiz.
 
 Data
+
 The zip file containing the data can be downloaded here:
 *	specdata.zip [2.4MB]
 The zip file contains 332 comma-separated-value (CSV) files containing pollution monitoring data for fine particulate matter (PM) air pollution at 332 locations in the United States. Each file contains data from a single monitor and the ID number for each monitor is contained in the file name. For example, data for monitor 200 is contained in the file "200.csv". Each file contains three variables:
