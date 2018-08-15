@@ -25,7 +25,7 @@ ignoring any missing values coded as NA.
 ```R
 pollutantmean <- function(directory, pollutant, id = 1:332) {
     
-    # first set the working directory to "CourseraR"
+    # first set the working directory
     
     # get list of files
     files <- list.files(path = directory, pattern = ".csv", full.names = TRUE)
