@@ -42,7 +42,6 @@ outcome should be excluded from the set of hospitals when deciding the rankings.
 **Handling ties**. If there is a tie for the best hospital for a given outcome, then the hospital names should
 be sorted in alphabetical order and the first hospital in that set should be chosen (i.e. if hospitals “b”, “c”,
 and “f” are tied for best, then hospital “b” should be returned).
-The function should use the following template.
 
 ```R
 best <- function(state, outcome) {
